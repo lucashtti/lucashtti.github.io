@@ -1,0 +1,18 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<channel>
+  <title><![CDATA[Lucas Agatti]]></title>
+  <description><![CDATA[Lucas Agatti&#39;s Website
+]]></description>
+  <link>https://tlienart.github.io/FranklinTemplates.jl/</link>
+  <atom:link href="https://tlienart.github.io/FranklinTemplates.jl/tag/syntax/feed.xml" rel="self" type="application/rss+xml" />
+  <item>
+    <title><![CDATA[Projects]]></title>
+    <link>https://tlienart.github.io/FranklinTemplates.jl/projects/</link>
+    <description><![CDATA[A short description of the page which would serve as <strong>blurb</strong> in a <code>RSS</code> feed; 
+<br><a href="https://tlienart.github.io/FranklinTemplates.jl/projects/">Read more</a>]]></description>
+    
+    <guid>https://tlienart.github.io/FranklinTemplates.jl/projects/</guid>
+    <pubDate>Fri, 22 Mar 2019 00:00:00 UT</pubDate>
+  </item>
+</channel>
+</rss>
